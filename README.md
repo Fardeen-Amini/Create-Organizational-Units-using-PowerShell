@@ -22,5 +22,13 @@ foreach ($ou in $ouList) {
 Write-Host "`n🎉 All Organizational Units created successfully!"
 ```
 ## 🎓 What I Learned
-Through this hands-on project, I learned how to:
+This hands-on project helped me strengthen my skills in PowerShell scripting and Active Directory management. Specifically, I learned how to:
+
+Automate administrative tasks using PowerShell in a Windows Server environment.
+
+Utilize the New-ADOrganizationalUnit cmdlet to efficiently create and manage Organizational Units (OUs).
+
+Write, structure, and execute PowerShell scripts tailored for domain-based environments.
+
+Apply best practices for designing and organizing Active Directory OU hierarchies.
 
