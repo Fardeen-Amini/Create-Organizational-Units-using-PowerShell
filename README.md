@@ -24,11 +24,11 @@ Write-Host "`n🎉 All Organizational Units created successfully!"
 ## 🎓 What I Learned
 This hands-on project helped me strengthen my skills in PowerShell scripting and Active Directory management. Specifically, I learned how to:
 
-Automate administrative tasks using PowerShell in a Windows Server environment.
+✅ Automate administrative tasks using PowerShell in a Windows Server environment
 
-Utilize the New-ADOrganizationalUnit cmdlet to efficiently create and manage Organizational Units (OUs).
+🏗️ Use the New-ADOrganizationalUnit cmdlet to create and manage Organizational Units (OUs) efficiently
 
-Write, structure, and execute PowerShell scripts tailored for domain-based environments.
+🧠 Structure and execute PowerShell scripts designed for domain-based environments
 
-Apply best practices for designing and organizing Active Directory OU hierarchies.
+📁 Apply best practices for organizing and managing the Active Directory OU hierarchy
 
