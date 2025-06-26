@@ -21,3 +21,13 @@ foreach ($ou in $ouList) {
 
 Write-Host "`n🎉 All Organizational Units created successfully!"
 
+## 🎓 What I Learned
+Through this hands-on project, I learned how to:
+
+- Use PowerShell to automate administrative tasks in Active Directory.
+- Work with the `New-ADOrganizationalUnit` cmdlet to create OUs.
+- Structure and execute PowerShell scripts in a domain environment.
+- Understand the OU hierarchy and best practices for organizing domain objects.
+
+## 🎬 Watch Demo
+📺 [Click here to watch the demo](video-demo.mp4)  
