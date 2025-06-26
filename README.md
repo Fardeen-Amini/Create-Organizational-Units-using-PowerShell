@@ -20,8 +20,6 @@ foreach ($ou in $ouList) {
 
 Write-Host "`n🎉 All Organizational Units created successfully!"
 ```
-## 🖼️ Screenshot (Optional)
-If you have a screenshot of the PowerShell script running successfully:
 ## 🖼️ Screenshot
 
 ![Script Output](Screenshots/created-ou-successfully.jpg)
