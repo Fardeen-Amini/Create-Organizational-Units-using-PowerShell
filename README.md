@@ -1,4 +1,4 @@
-# Create 3 Organizational Units using PowerShell Script:
+# Creating 3 Organizational Units using PowerShell Script:
 
 This project demonstrates how to use PowerShell to create three Organizational Units (OUs) in Active Directory: **HR**, **Marketing**, and **Finance**.
 
