@@ -1,10 +1,4 @@
-PowerShell Script: Create 3 OUs Only (No Users)
-# ================================
 # Creating 3 Organizational Units using PowerShell Script:
-# Author: Fardeen Amini
-# Date: June 2025
-# Description: This script creates 3 empty OUs in the domain: HR, Marketing, and Finance.
-# ================================
 This project demonstrates how to use PowerShell to create three Organizational Units (OUs) in Active Directory: **HR**, **Marketing**, and **Finance**.
 
 ## 🔧 Technologies Used
