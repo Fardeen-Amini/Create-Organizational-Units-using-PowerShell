@@ -24,6 +24,12 @@ Write-Host "`n🎉 All Organizational Units created successfully!"
 
 ![Script Output](Screenshots/created-ou-successfully.jpg)
 
+## 🛠️ Prerequisites
+
+- Windows Server with Active Directory Domain Services installed  
+- RSAT (Remote Server Administration Tools) enabled  
+- Sufficient permissions to create Organizational Units  
+
 ## 🎓 What I Learned
 This hands-on project helped me strengthen my skills in PowerShell scripting and Active Directory management. Specifically, I learned how to:
 
