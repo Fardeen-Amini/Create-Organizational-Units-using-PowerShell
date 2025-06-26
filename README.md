@@ -21,4 +21,7 @@ foreach ($ou in $ouList) {
 
 Write-Host "`n🎉 All Organizational Units created successfully!"
 
+## 🎓 What I Learned
+Through this hands-on project, I learned how to:
+
 
