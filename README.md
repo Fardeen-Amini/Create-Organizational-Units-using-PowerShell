@@ -52,6 +52,8 @@ Project Root
 ├── README.md
 └── Screenshots
     └── created-ou successfully.jpg
+``` 
+## 🙋 About
 
-🙋 About
-Created by Your Name as part of my learning journey in System Administration and PowerShell automation.
+Created by **Fardeen** as part of my learning journey in System Administration and PowerShell automation.
+
