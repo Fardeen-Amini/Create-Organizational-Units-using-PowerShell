@@ -45,12 +45,13 @@ This hands-on project helped me strengthen my skills in PowerShell scripting and
 📁 Apply best practices for organizing and managing the Active Directory OU hierarchy
 
 ## 📂 Project Directory Structure
- Project Root
-📁 Project Root
+
+```text
+Project Root
 ├── create-OUs.ps1
 ├── README.md
 └── Screenshots
-└── created-ou successfully.jpg
+    └── created-ou successfully.jpg
 
 
 
