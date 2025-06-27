@@ -22,7 +22,7 @@ Write-Host "`n🎉 All Organizational Units created successfully!"
 ```
 ## 🖼️ Screenshot
 
-![Script Output](Screenshots/created-ou-successfully.jpg)
+![Script Output](Screenshots/created-ou%20successfully.jpg)
 
 ## 🎬 Watch Demo
 📺 [Click here to watch the demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
