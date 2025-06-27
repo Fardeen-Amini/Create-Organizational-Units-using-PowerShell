@@ -44,3 +44,7 @@ This hands-on project helped me strengthen my skills in PowerShell scripting and
 
 📁 Apply best practices for organizing and managing the Active Directory OU hierarchy
 
+## 📂 Project Directory Structure
+
+
+
