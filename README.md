@@ -46,14 +46,11 @@ This hands-on project helped me strengthen my skills in PowerShell scripting and
 
 ## 📂 Project Directory Structure
  Project Root
+📁 Project Root
 ├── create-OUs.ps1
 ├── README.md
 └── Screenshots
 └── created-ou successfully.jpg
-
-yaml
-Copy
-Edit
 
 
 
